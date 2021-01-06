@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Learn Markdown
+2. Take over the world
+3. Profit
