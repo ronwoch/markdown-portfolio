@@ -1,0 +1,3 @@
+ - *Sense of Humor*
+ - *Sense of direction*
+ - *Sense of ...*
